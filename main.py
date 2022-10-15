@@ -1,2 +1,1 @@
-print("Hello World")
-print(2 + 2)
+a  = input("введіть перше чило")
