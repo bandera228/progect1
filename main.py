@@ -1,14 +1,14 @@
 a  = float(input("введіть перше чило"))
 b = str(input("оберіть дію +,-,*,/"))
-с = float(input("введіть третє число"))
+u = float(input("введіть третє число"))5
 
 if b == "+":
-    print (a, "+", c, "=", a+c)
+    print (a, "+", u, "=", a+u)
 elif b == "-":
-    print (a, "-", c, "=", a-c)
+    print (a, "-", u, "=", a-u)
 elif b == "*":
-    print (a, "*", c, "=", a*c)
+    print (a, "*", u, "=", a*u)
 else:
-    print(a, "/", c, "=", a / c)
+    print(a, "/", u, "=", a / u)
 
 
